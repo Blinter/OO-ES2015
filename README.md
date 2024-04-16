@@ -21,8 +21,9 @@ Each vehicle instance should have a method called toString, which returns the st
 let myFirstVehicle = new Vehicle("Honda", "Monster Truck", 1999);
 myFirstVehicle.toString(); // "The vehicle is a Honda Monster Truck from 1999."
 
-​```
+```
 ---
+Solution
 ```javascript
 
 class Vehicle {
@@ -47,9 +48,9 @@ let myFirstCar = new Car("Toyota", "Corolla", 2005);
 myFirstCar.toString(); // "The vehicle is a Toyota Corolla from 2005."
 myFirstCar.honk();     // "Beep."
 myFirstCar.numWheels;  // 4
-
-​```
+```
 ---
+Solution
 ```javascript
 
 /* 
@@ -88,6 +89,7 @@ myFirstMotorcycle.revEngine(); // "VROOM!!!"
 myFirstMotorcycle.numWheels;  // 2
 ```
 ---
+Solution
 ```javascript
 
 /* class Vehicle {
@@ -140,6 +142,7 @@ garage.add(new Motorcycle("Honda", "Nighthawk", 2001));
 
 ```
 ---
+Solution
 ```javascript
 
 /*
