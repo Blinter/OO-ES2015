@@ -5,6 +5,7 @@ Create a class for vehicle. Each vehicle instance should have the following prop
 + make
 + model
 + year
+
 Each vehicle instance should have access to a method called honk, which returns the string “Beep.”
 
 ```javascript
