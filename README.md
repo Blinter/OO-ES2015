@@ -22,7 +22,7 @@ let myFirstVehicle = new Vehicle("Honda", "Monster Truck", 1999);
 myFirstVehicle.toString(); // "The vehicle is a Honda Monster Truck from 1999."
 
 ​```
-
+---
 ```javascript
 
 class Vehicle {
@@ -49,7 +49,7 @@ myFirstCar.honk();     // "Beep."
 myFirstCar.numWheels;  // 4
 
 ​```
-
+---
 ```javascript
 
 /* 
