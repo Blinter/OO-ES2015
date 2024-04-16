@@ -86,8 +86,8 @@ myFirstMotorcycle.toString();
 myFirstMotorcycle.honk();     // "Beep."
 myFirstMotorcycle.revEngine(); // "VROOM!!!"
 myFirstMotorcycle.numWheels;  // 2
-​```
-
+```
+---
 ```javascript
 
 /* class Vehicle {
@@ -139,7 +139,7 @@ garage.add(new Motorcycle("Honda", "Nighthawk", 2001));
 // "Sorry, we're full."
 
 ```
-
+---
 ```javascript
 
 /*
